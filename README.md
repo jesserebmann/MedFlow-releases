@@ -5,9 +5,9 @@ De ontwikkelrepository wordt apart en prive beheerd.
 
 ## Beschikbaarheid
 
-Er is nog geen installeerbare Mac-app in deze repository gepubliceerd.
-Een broncoderelease is geen app-update. Download alleen appbestanden die expliciet
-als Mac-build bij een release staan.
+Installatiebestanden staan bij Releases zodra een native Mac-build is gemaakt en
+gepubliceerd. Zolang daar geen Mac-zipbestand staat, is er nog geen installeerbare
+app beschikbaar. Een broncoderelease is geen app-update.
 
 ## Bijwerken
 
